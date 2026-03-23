@@ -35,6 +35,8 @@ views:
       - rating
       - year
       - genre
+    columnSize:
+      file.name: 313
   - type: table
     name: Genre
     filters:
