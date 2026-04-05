@@ -54,8 +54,9 @@ views:
     sort:
       - property: file.name
         direction: ASC
-      - property: created
-        direction: DESC
+    columnSize:
+      file.name: 554
+      note.categories: 368
   - type: table
     name: Yearly
     filters:

@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - categories.contains(link("Books"))
+        - file.folder != "Templates"
+    rowHeight: medium
+    image: note.cover
+    cardSize: 270
+    imageAspectRatio: 1.5

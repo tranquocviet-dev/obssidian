@@ -5,4 +5,4 @@ type:
 ---
 ## Books
 
-![[Books.base#Author]]
+![[Templates/Bases/Books.base#Author]]

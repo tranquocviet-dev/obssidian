@@ -25,6 +25,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      note.length: 113
   - type: table
     name: Top rated
     order:
