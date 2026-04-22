@@ -4,7 +4,7 @@ tags:
   - 0🌲
   - study
 ---
-Numbers are among the most common thing that [[Collection]]s like [[Sets]] store. Everyone knows what numbers are, everyone can agree that they are the most simple, as well. 
+Numbers are among the most common thing that [[Collection MATH1179]]s like [[Sets]] store. Everyone knows what numbers are, everyone can agree that they are the most simple, as well. 
 
 Numbers can be utilized. There are a lot of ways to illustrate numbers, add, subtract, multiply,
 

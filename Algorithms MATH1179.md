@@ -5,7 +5,7 @@ tags:
 ---
 Algorithm is a set of instructions and steps involved in order to create something or achieve a desired outcome.
 
-The complexity of an algorithm depends on how many things are looped. In order to achieve obtimal  speed, one may remove as many aspects as possible from the loop and do things outside the loop instead. (somehow $log^2n$ is faster than n even as there is an additional calculation for it, absolutely stupid)
+The complexity of an algorithm depends on how many things are looped. In order to achieve optimal speed, one may remove as many aspects as possible from the loop and do things outside the loop instead. (somehow $log^2n$ is faster than n even as there is an additional calculation for it, absolutely stupid)
 
 ![[2026-03-24 1402]]
 
